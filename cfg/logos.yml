@@ -15,6 +15,8 @@
   link_en: en/recommend
   name_pt: Relatórios
   link_pt: pt/relatórios
+  name_gr: Ανέβασε μια πληροφορία
+  link_gr: gr/anebase-pliroforia
 - name: TUTTE LE SEGNALAZIONI
   logo-alt: Elenco delle segnalazioni ricevute
   logo: /img/icone/tci-solidali.png
@@ -24,6 +26,8 @@
   link_en: issues/
   name_pt: Todas as iniciativas
   link_pt: pt/iniciativas
+  name_gr: Όλες οι πληροφορίες
+  link_gr: gr/plirofories
 - name: RACCOLTE FONDI
   logo-alt: raccolte fondi
   logo: /img/icone/01-fabbisogni.png
