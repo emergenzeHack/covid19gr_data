@@ -5,7 +5,7 @@
   name_en: MAP
   link_en: en/map
   name_pt: ROTEIRO
-  link_pt: pt/roteiro
+  link_pt: roteiro
 - name: SEGNALA
   logo-alt: Segnala iniziative, servizi, bufale, documenti o effettua una donazione.
   logo: /img/icone/segnala2-tci.png
@@ -14,9 +14,9 @@
   name_en: RECOMMEND
   link_en: en/recommend
   name_pt: Relatórios
-  link_pt: pt/relatórios
+  link_pt: relatórios
   name_gr: Ανέβασε μια πληροφορία
-  link_gr: gr/anebase-pliroforia
+  link_gr: anebase-pliroforia
 - name: TUTTE LE SEGNALAZIONI
   logo-alt: Elenco delle segnalazioni ricevute
   logo: /img/icone/tci-solidali.png
@@ -25,9 +25,9 @@
   name_en: INITIATIVES
   link_en: issues/
   name_pt: Todas as iniciativas
-  link_pt: pt/iniciativas
+  link_pt: iniciativas
   name_gr: Όλες οι πληροφορίες
-  link_gr: gr/plirofories
+  link_gr: plirofories
 - name: RACCOLTE FONDI
   logo-alt: raccolte fondi
   logo: /img/icone/01-fabbisogni.png
@@ -36,7 +36,7 @@
   name_en: FUNDARAISER
   link_en: raccolte-fondi/
   name_pt: Coleções de fundos
-  link_pt: pt/fundos
+  link_pt: fundos
 - name: FONTI ISTITUZIONALI
   logo-alt: Elenco delle fonti istituzionali da cui reperire informazioni ufficiali.
   logo: /img/icone/tci-legge.png
@@ -45,7 +45,7 @@
   name_en: INSTITUTIONAL SOURCES
   link_en: fonti-istituzionali/
   name_pt: Frentes Institucionais
-  link_pt: pt/institucionais
+  link_pt: institucionais
 - name: RICHIESTE DI AIUTO
   logo-alt: richieste di aiuto
   logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
@@ -54,7 +54,7 @@
   name_en: HELP REQUESTS
   link_en: richiesta/
   name_pt: Pedidos de Ajuda
-  link_pt: pt/ajuda
+  link_pt: ajuda
 - name: FAKE NEWS
   logo-alt: le fake news
   logo: /img/icone/bufala-tci-1.png              #       SERVE ICONA NUOVA??
@@ -63,4 +63,4 @@
   name_en: FAKE NEWS
   link_en: fake-news
   name_pt: Notícias Falsas
-  link_pt: pt/fake-news
+  link_pt: fake-news
