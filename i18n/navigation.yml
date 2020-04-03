@@ -49,22 +49,22 @@ languages:
       CONTRIBUIR:
         - WIKI: "pt/wiki/"
       PRIVACY: "legal"
-- language: gr
-    navbar-links:
-      Ανέβασε μια πληροφορία: "anebase-pliroforia/"
-      SCOPRI:
-        - SEGNALAZIONI : "issues/"
-        - SEGNALAZIONI PER REGIONE: "issues/regione/"
-      SEGUI:
-        - NOTIZIE: "notizie-utili/"
-        - BLOG : "post/"
-        - CONTATTI: "canali/"
-      Σχετικά:
-        - ABOUT: "about/"
-        - PRESS: "press/"
-        - DOMANDE FREQUENTI: "faq/"
-        - OPEN DATA: "opendata/"
-      Συμμετοχή:
-        - COME PARTECIPARE: "contribuisci/"
-        - WIKI: "wiki/"
-      Προστασία δεδομένων: "legal"
+  - language: gr
+      navbar-links:
+        Ανέβασε μια πληροφορία: "anebase-pliroforia/"
+        SCOPRI:
+          - SEGNALAZIONI : "issues/"
+          - SEGNALAZIONI PER REGIONE: "issues/regione/"
+        SEGUI:
+          - NOTIZIE: "notizie-utili/"
+          - BLOG : "post/"
+          - CONTATTI: "canali/"
+        Σχετικά:
+          - ABOUT: "about/"
+          - PRESS: "press/"
+          - DOMANDE FREQUENTI: "faq/"
+          - OPEN DATA: "opendata/"
+        Συμμετοχή:
+          - COME PARTECIPARE: "contribuisci/"
+          - WIKI: "wiki/"
+        Προστασία δεδομένων: "legal"
