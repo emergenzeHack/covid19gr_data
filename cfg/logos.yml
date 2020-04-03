@@ -6,6 +6,8 @@
   link_en: en/map
   name_pt: ROTEIRO
   link_pt: roteiro
+  name_gr: Ανέβασε μια πληροφορία
+  link_gr: anebase-pliroforia
 - name: SEGNALA
   logo-alt: Segnala iniziative, servizi, bufale, documenti o effettua una donazione.
   logo: /img/icone/segnala2-tci.png
@@ -37,6 +39,8 @@
   link_en: raccolte-fondi/
   name_pt: Coleções de fundos
   link_pt: fundos
+  name_gr: Ανέβασε μια πληροφορία
+  link_gr: anebase-pliroforia
 - name: FONTI ISTITUZIONALI
   logo-alt: Elenco delle fonti istituzionali da cui reperire informazioni ufficiali.
   logo: /img/icone/tci-legge.png
@@ -46,6 +50,8 @@
   link_en: fonti-istituzionali/
   name_pt: Frentes Institucionais
   link_pt: institucionais
+  name_gr: Ανέβασε μια πληροφορία
+  link_gr: anebase-pliroforia
 - name: RICHIESTE DI AIUTO
   logo-alt: richieste di aiuto
   logo: /img/icone/alloggi2-tci.png              #       SERVE ICONA NUOVA??
@@ -55,6 +61,8 @@
   link_en: richiesta/
   name_pt: Pedidos de Ajuda
   link_pt: ajuda
+  name_gr: Ανέβασε μια πληροφορία
+  link_gr: anebase-pliroforia
 - name: FAKE NEWS
   logo-alt: le fake news
   logo: /img/icone/bufala-tci-1.png              #       SERVE ICONA NUOVA??
@@ -64,3 +72,5 @@
   link_en: fake-news
   name_pt: Notícias Falsas
   link_pt: fake-news
+  name_gr: Ανέβασε μια πληροφορία
+  link_gr: anebase-pliroforia
