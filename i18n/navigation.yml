@@ -67,5 +67,24 @@ languages:
       richiesta: "pt/solicitacao"
       issues: "pt/issues"
       regione: "pt/regiao"
-
+- language: gr
+    navbar-links:
+      Ανέβασε μια πληροφορία: "anebase-pliroforia/"
+      SCOPRI:
+        - SEGNALAZIONI : "issues/"
+        - SEGNALAZIONI PER REGIONE: "issues/regione/"
+      SEGUI:
+        - NOTIZIE: "notizie-utili/"
+        - BLOG : "post/"
+        - CONTATTI: "canali/"
+      Σχετικά:
+        - ABOUT: "about/"
+        - PRESS: "press/"
+        - DOMANDE FREQUENTI: "faq/"
+        - OPEN DATA: "opendata/"
+      Συμμετοχή:
+        - COME PARTECIPARE: "contribuisci/"
+        - WIKI: "wiki/"
+      Προστασία δεδομένων: "legal"
+    other-links:
 
