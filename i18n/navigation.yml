@@ -18,7 +18,6 @@ languages:
         - COME PARTECIPARE: "contribuisci/"
         - WIKI: "wiki/"
       PRIVACY: "legal"
-    other-links:
   - language: en
     navbar-links:
       RECOMMEND: "en/recommend/"
@@ -36,7 +35,6 @@ languages:
         - ACTIVATE YOUR COUNTRY: "en/contribute/"
         - WIKI: "en/wiki/"
       PRIVACY: "legal"
-    other-links:
   - language: pt
     navbar-links:
       RELATORIOS: "pt/recommend/"
@@ -51,22 +49,6 @@ languages:
       CONTRIBUIR:
         - WIKI: "pt/wiki/"
       PRIVACY: "legal"
-    other-links:
-      fake-news: "pt/fake-news"
-      raccolte-fondi: "pt/angariacao-fundos"
-      press: "pt/imprensa"
-      opendata: "/pt/dados-abertos"
-      about: "pt/sobre"
-      canali: "pt/canais"
-      contribuisci: "pt/contribuir"
-      news: "pt/noticias"
-      segnala: "pt/comunique"
-      faq: "pt/faq"
-      fonti-instituzionali: "pt/fontes-institucionais"
-      post: "pt/post"
-      richiesta: "pt/solicitacao"
-      issues: "pt/issues"
-      regione: "pt/regiao"
 - language: gr
     navbar-links:
       Ανέβασε μια πληροφορία: "anebase-pliroforia/"
@@ -86,5 +68,3 @@ languages:
         - COME PARTECIPARE: "contribuisci/"
         - WIKI: "wiki/"
       Προστασία δεδομένων: "legal"
-    other-links:
-
