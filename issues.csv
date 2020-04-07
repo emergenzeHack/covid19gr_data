@@ -1,4 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19gr_issues/issues/6,596181485,2020-04-07 22:16:57,2020-04-07 22:10:02,fake news,,,,,"[""Missing position"", ""accepted"", ""fake news"", ""form"", ""useful News""]",,,"{""Cosa"": ""\u03a0\u03ae\u03b3\u03b5 \u03ba\u03b1\u03bb\u03ac \u03c4\u03bf \u03b2\u03c1\u03ac\u03b4\u03c5"", ""Link"": ""http://ww.intel.com"", ""geopoint_vk0au69"": ""38.002979 23.729827 0 0"", ""text_te4xn37"": ""\u0398\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 70 \u03ba\u03b9\u03bb\u03ac \u03c7\u03b1\u03bc\u03bf\u03b3\u03b5\u03bb\u03bf"", ""text_ve9ye04"": ""\u0395\u03bb\u03b9\u03b3\u03bc\u03ce\u03bd 40""}","<pre><yamldata>
+Cosa: Πήγε καλά το βράδυ
+Link: http://ww.intel.com
+geopoint_vk0au69: 38.002979 23.729827 0 0
+text_te4xn37: Θα αγοράσουμε 70 κιλά χαμογελο
+text_ve9ye04: Ελιγμών 40
+</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19gr_issues/issues/3,596171050,2020-04-07 21:56:32,2020-04-07 21:46:02,fake news,,,,,"[""Missing position"", ""accepted"", ""fake news"", ""form""]",,,"{""Cosa"": ""afds""}","<pre><yamldata>
 Cosa: afds
 </yamldata></pre>",open
