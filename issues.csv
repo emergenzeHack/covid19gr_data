@@ -1,4 +1,8 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19gr_issues/issues/8,596476838,2020-04-08 11:05:03,2020-04-08 10:33:05,fake news,,,,,"[""Missing position"", ""accepted"", ""e-learning"", ""form"", ""psychological support""]",,,"{""Cosa"": ""\u03a0\u03c1\u03c9\u03b9\u03bd\u03cc \u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"", ""text_te4xn37"": ""\u0393\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c0\u03c9\u03c2 \u03b8\u03b1 \u03b4\u03bf\u03c5\u03bb\u03ad\u03c8\u03bf\u03c5\u03bd \u03bf\u03b9 \u03b5\u03c4\u03b9\u03ba\u03ad\u03c4\u03c4\u03b5\u03c2""}","<pre><yamldata>
+Cosa: Πρωινό δοκιμαστικό
+text_te4xn37: Για να δούμε πως θα δουλέψουν οι ετικέττες
+</yamldata></pre>",closed
 https://github.com/emergenzeHack/covid19gr_issues/issues/7,596187302,2020-04-08 08:54:32,2020-04-07 22:23:32,fake news,,,,,"[""Fake News"", ""Missing position"", ""accepted"", ""cultural activities and leisure"", ""form""]",,,"{""Cosa"": ""\u0391\u03c2 \u03c0\u03b5\u03c4\u03cd\u03c7\u03b5\u03b9 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac"", ""Link"": ""http://www.tanea.gr"", ""geopoint_vk0au69"": ""37.967136 23.729235 0 0"", ""text_te4xn37"": ""\u03a3\u03b1\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03c9 \u03c4\u03c1\u03b5\u03bb\u03ac \u03ba\u03b9\u03bb\u03ac \u03bc\u03b5 \u03c3\u03b1\u03ba\u03b9\u03ac \u03c0\u03b1\u03c4\u03ac\u03c4\u03b5\u03c2."", ""text_ve9ye04"": ""\u03a6\u03b1\u03bb\u03ae\u03c1\u03bf\u03c5 52""}","<pre><yamldata>
 Cosa: Ας πετύχει αυτή τη φορά
 Link: http://www.tanea.gr
@@ -6,7 +10,7 @@ geopoint_vk0au69: 37.967136 23.729235 0 0
 text_te4xn37: Σας προσφέρω τρελά κιλά με σακιά πατάτες.
 text_ve9ye04: Φαλήρου 52
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19gr_issues/issues/6,596181485,2020-04-07 22:16:57,2020-04-07 22:10:02,fake news,,,,,"[""Fake News"", ""Missing position"", ""accepted"", ""form"", ""useful News""]",,,"{""Cosa"": ""\u03a0\u03ae\u03b3\u03b5 \u03ba\u03b1\u03bb\u03ac \u03c4\u03bf \u03b2\u03c1\u03ac\u03b4\u03c5"", ""Link"": ""http://ww.intel.com"", ""geopoint_vk0au69"": ""38.002979 23.729827 0 0"", ""text_te4xn37"": ""\u0398\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 70 \u03ba\u03b9\u03bb\u03ac \u03c7\u03b1\u03bc\u03bf\u03b3\u03b5\u03bb\u03bf"", ""text_ve9ye04"": ""\u0395\u03bb\u03b9\u03b3\u03bc\u03ce\u03bd 40""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19gr_issues/issues/6,596181485,2020-04-07 22:16:57,2020-04-07 22:10:02,fake news,,,,,"[""Fake News"", ""Missing position"", ""accepted"", ""form"", ""useful news""]",,,"{""Cosa"": ""\u03a0\u03ae\u03b3\u03b5 \u03ba\u03b1\u03bb\u03ac \u03c4\u03bf \u03b2\u03c1\u03ac\u03b4\u03c5"", ""Link"": ""http://ww.intel.com"", ""geopoint_vk0au69"": ""38.002979 23.729827 0 0"", ""text_te4xn37"": ""\u0398\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 70 \u03ba\u03b9\u03bb\u03ac \u03c7\u03b1\u03bc\u03bf\u03b3\u03b5\u03bb\u03bf"", ""text_ve9ye04"": ""\u0395\u03bb\u03b9\u03b3\u03bc\u03ce\u03bd 40""}","<pre><yamldata>
 Cosa: Πήγε καλά το βράδυ
 Link: http://ww.intel.com
 geopoint_vk0au69: 38.002979 23.729827 0 0
@@ -16,6 +20,6 @@ text_ve9ye04: Ελιγμών 40
 https://github.com/emergenzeHack/covid19gr_issues/issues/3,596171050,2020-04-08 08:51:41,2020-04-07 21:46:02,fake news,,,,,"[""Fake News"", ""Missing position"", ""accepted"", ""form""]",,,"{""Cosa"": ""afds""}","<pre><yamldata>
 Cosa: afds 
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19gr_issues/issues/1,594492537,2020-04-06 21:47:52,2020-04-05 14:45:21,test test,,,,,"[""accepted"", ""deliveries and services"", ""useful News""]",,,"{""title"": ""test""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19gr_issues/issues/1,594492537,2020-04-06 21:47:52,2020-04-05 14:45:21,test test,,,,,"[""accepted"", ""deliveries and services"", ""useful news""]",,,"{""title"": ""test""}","<pre><yamldata>
 title: test
 </yamldata></pre>",closed
