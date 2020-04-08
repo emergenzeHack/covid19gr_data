@@ -1,4 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19gr_issues/issues/16,596914360,2020-04-08 23:08:34,2020-04-08 23:05:09,fake news,38.083628,23.7371,,,"[""Missing position"", ""accepted"", ""form"", ""games/activities for children""]",,,"{""Cosa"": ""\u03a1\u03bf\u03cd\u03c7\u03b1"", ""Link"": ""www.openmap.org"", ""Location"": ""38.083628 23.7371 0 0"", ""text_te4xn37"": ""\u03a0\u03b1\u03bb\u03c4\u03cc \u03ba\u03b1\u03b9 \u03c0\u03b1\u03c0\u03bf\u03cd\u03c4\u03c3\u03b9\u03b1"", ""text_ve9ye04"": ""\u0391\u03c7\u03b1\u03c1\u03bd\u03ce\u03bd 28""}","<pre><yamldata>
+Cosa: Ρούχα
+Link: www.openmap.org
+Location: 38.083628 23.7371 0 0
+text_te4xn37: Παλτό και παπούτσια
+text_ve9ye04: Αχαρνών 28
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19gr_issues/issues/15,596912066,2020-04-08 23:01:35,2020-04-08 22:58:18,support request,,,,,"[""Missing position"", ""accepted"", ""form"", ""public solidarity services and initiatives"", ""support request""]",,,"{""Cosa"": ""Ti"", ""Email"": ""dimitris_chatzoglou@hotmail.com"", ""Nome"": ""Dimitris"", ""Telefono"": ""6947818239""}","<pre><yamldata>
 Cosa: Ti
 Email: dimitris_chatzoglou@hotmail.com
