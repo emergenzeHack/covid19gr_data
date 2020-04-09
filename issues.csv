@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19gr_issues/issues/21,597467271,2020-04-09 18:58:26,2020-04-09 18:20:31,initiative,,,,,"[""Missing position"", ""accepted"", ""deliveries and services"", ""form""]",,,"{""Category"": ""solidale"", ""text_nw79g43"": ""\u03a3\u03c5\u03bb\u03bb\u03bf\u03b3\u03bf\u03c2""}","<pre><yamldata>
+Category: solidale
+text_nw79g43: Συλλογος
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19gr_issues/issues/20,597465750,2020-04-09 18:57:36,2020-04-09 18:17:43,initiative,38.077261,23.81467,,,"[""Missing position"", ""accepted"", ""form"", ""public solidarity services and initiatives""]",,,"{""Category"": ""culturale-ricr"", ""Link"": ""www.actionaid.gr"", ""Location"": ""38.077261 23.81467 0 0"", ""Titolo"": ""\u0391\u03ba\u03bf\u03bc\u03b7 \u03b5\u03bd\u03b1\u03c2 \u03c4\u03b9\u03c4\u03bb\u03bf\u03c2"", ""text_ct5yl45"": ""\u0393\u03c5\u03bd\u03b1\u03af\u03ba\u03b5\u03c2 \u03a6\u03b1\u03bb\u03b7\u03c1\u03ad\u03b1"", ""text_na44j66"": ""\u0394\u03b5\u03bd \u03c4\u03b1 \u03b5\u03b9\u03c0\u03b1\u03bc\u03b5? \u03a0\u03ac\u03bb\u03b9?"", ""text_nw79g43"": ""\u0394\u03b7\u03bc\u03bf\u03c2""}","<pre><yamldata>
+Category: culturale-ricr
+Link: www.actionaid.gr
+Location: 38.077261 23.81467 0 0
+Titolo: Ακομη ενας τιτλος
+text_ct5yl45: Γυναίκες Φαληρέα
+text_na44j66: Δεν τα ειπαμε? Πάλι?
+text_nw79g43: Δημος
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19gr_issues/issues/19,597374990,2020-04-09 15:55:39,2020-04-09 15:43:52,fundraising,40.132335,23.395365,,,"[""Missing position"", ""accepted"", ""form"", ""fundraising""]",,,"{""Description"": ""\u03c1\u03bf\u03cd\u03c7\u03b1 \u03ba\u03b1\u03b9 \u03bb\u03b1\u03c7\u03b1\u03bd\u03b9\u03ba\u03ac"", ""Foreas"": ""\u03a3\u03cd\u03bb\u03bb\u03bf\u03b3\u03bf\u03c2 \u039d\u03ad\u03b1\u03c2 \u03a6\u03c9\u03ba\u03b1\u03af\u03b1\u03c2"", ""Link"": ""www.halkidiki.gr"", ""Location"": ""40.132335 23.395365 0 0"", ""Stoixeia"": ""\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5""}","<pre><yamldata>
 Description: ρούχα και λαχανικά
 Foreas: Σύλλογος Νέας Φωκαίας
