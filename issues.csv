@@ -1,4 +1,7 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19gr_issues/issues/22,597467650,2020-04-09 18:59:09,2020-04-09 18:21:14,initiative,,,,,"[""Missing position"", ""accepted"", ""form"", ""psychological support""]",,,"{""Category"": ""didattica""}","<pre><yamldata>
+Category: didattica
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19gr_issues/issues/21,597467271,2020-04-09 18:58:26,2020-04-09 18:20:31,initiative,,,,,"[""Missing position"", ""accepted"", ""deliveries and services"", ""form""]",,,"{""Category"": ""solidale"", ""text_nw79g43"": ""\u03a3\u03c5\u03bb\u03bb\u03bf\u03b3\u03bf\u03c2""}","<pre><yamldata>
 Category: solidale
 text_nw79g43: Συλλογος
