@@ -1,10 +1,4 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19gr_issues/issues/18,597329905,2020-04-10 10:44:41,2020-04-09 14:38:29,Καλές Ειδήσεις,37.943009,23.739857,,,"[""Missing position"", ""accepted"", ""form"", ""useful news""]",,,"{""Description"": ""\u0397 \u03b5\u03c4\u03b1\u03b9\u03c1\u03af\u03b1 \u03a9\u03ba\u03b5\u03b1\u03bd\u03cc\u03c2, \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03b5\u03b9 \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd \u03b5\u03bd\u03c5\u03b4\u03c1\u03b5\u03af\u03b1 \u03bc\u03b5 \u03c8\u03ac\u03c1\u03b9\u03b1."", ""Link"": ""http://www.oceanaquariums.gr/"", ""Location"": ""37.943009 23.739857 0 0"", ""Title"": ""\u0394\u03c9\u03c1\u03b5\u03ac\u03bd \u03b5\u03bd\u03c5\u03b4\u03c1\u03b5\u03af\u03b1""}","<pre><yamldata>
-Title: Δωρεάν ενυδρεία
-Link: http://www.oceanaquariums.gr/
-Location: 37.943009 23.739857 0 0
-Description: Η εταιρία Ωκεανός, προσφέρει δωρεάν ενυδρεία με ψάρια.
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19gr_issues/issues/8,596476838,2020-04-08 11:05:03,2020-04-08 10:33:05,fake news,,,,,"[""Missing position"", ""accepted"", ""e-learning"", ""form"", ""psychological support""]",,,"{""Cosa"": ""\u03a0\u03c1\u03c9\u03b9\u03bd\u03cc \u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"", ""text_te4xn37"": ""\u0393\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c0\u03c9\u03c2 \u03b8\u03b1 \u03b4\u03bf\u03c5\u03bb\u03ad\u03c8\u03bf\u03c5\u03bd \u03bf\u03b9 \u03b5\u03c4\u03b9\u03ba\u03ad\u03c4\u03c4\u03b5\u03c2""}","<pre><yamldata>
 Cosa: Πρωινό δοκιμαστικό
 text_te4xn37: Για να δούμε πως θα δουλέψουν οι ετικέττες
