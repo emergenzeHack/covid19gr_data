@@ -29,13 +29,14 @@ Link: www.intel.com
 Location: 37.961137 23.729698 0 0
 Title: Ελα
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19gr_issues/issues/36,598539003,2020-04-12 18:10:15,2020-04-12 17:59:58,Εκπαίδευση από απόσταση,,,,,"[""Missing position"", ""accepted"", ""e-learning"", ""form""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0394\u03b7\u03bc\u03bf\u03c2"", ""Legal"": ""OK"", ""Link"": ""www.inter.com"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19gr_issues/issues/36,598539003,2020-04-12 21:43:18,2020-04-12 17:59:58,Εκπαίδευση από απόσταση,,,,,"[""Missing position"", ""accepted"", ""e-learning"", ""form""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0394\u03b7\u03bc\u03bf\u03c2"", ""Legal"": ""OK"", ""Link"": ""www.inter.com"", ""Test"": ""test"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
 Beneficiaries: Ελα
 Description: Ελα
 Institution: Δημος
 Legal: OK
 Link: www.inter.com
 Title: Ελα
+Test: test
 </yamldata></pre>",open
 https://github.com/emergenzeHack/covid19gr_issues/issues/34,598533343,2020-04-12 17:34:30,2020-04-12 17:31:28,Καλές Ειδήσεις,37.927778,23.708379,,,"[""Missing position"", ""accepted"", ""form"", ""useful news""]",,,"{""Description"": ""\u03a0\u03b5\u03c1\u03ac\u03c3\u03c4\u03b5"", ""Legal"": ""OK"", ""Link"": ""www.intel.com"", ""Location"": ""37.927778 23.708379 0 0"", ""Title"": ""\u0394\u03c9\u03c1\u03b5\u03ac\u03bd \u03c8\u03c5\u03b3\u03b5\u03af\u03b1""}","<pre><yamldata>
 Description: Περάστε
