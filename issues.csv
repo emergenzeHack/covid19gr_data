@@ -1,15 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19gr_issues/issues/40,598553525,2020-04-12 21:25:35,2020-04-12 19:21:44,Ψυχολογική Υποστήριξη,37.963631,23.724333,,,"[""Missing position"", ""accepted"", ""form"", ""psychological support""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Category"": ""\u03c8\u03c5\u03c7\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae_\u03c5\u03c0\u03bf"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0395\u03bb\u03b1"", ""Legal"": ""OK"", ""Link"": ""http://www.cisco.com"", ""Location"": ""37.963631 23.724333 0 0"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
-Beneficiaries: Ελα
-Category: ψυχολογική_υπο
-Description: Ελα
-Institution: Ελα
-Legal: OK
-Link: http://www.cisco.com
-Location: 37.963631 23.724333 0 0
-Title: Ελα
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19gr_issues/issues/39,598552832,2020-04-12 19:20:14,2020-04-12 19:17:44,Παραδόσεις κατ' οίκον,37.987626,23.722746,,,"[""Missing position"", ""accepted"", ""form"", ""private solidarity services and initiatives""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Category"": ""\u03ba\u03b1\u03c4_\u03bf\u03af\u03ba\u03bf\u03bd"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0395\u03bb\u03b1"", ""Legal"": ""OK"", ""Link"": ""www.nasa.com"", ""Location"": ""37.987626 23.722746 0 0"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19gr_issues/issues/39,598552832,2020-04-12 21:59:41,2020-04-12 19:17:44,Παραδόσεις κατ' οίκον,37.987626,23.722746,,,"[""Missing position"", ""accepted"", ""deliveries and services"", ""form""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Category"": ""\u03ba\u03b1\u03c4_\u03bf\u03af\u03ba\u03bf\u03bd"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0395\u03bb\u03b1"", ""Legal"": ""OK"", ""Link"": ""www.nasa.com"", ""Location"": ""37.987626 23.722746 0 0"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
 Beneficiaries: Ελα
 Category: κατ_οίκον
 Description: Ελα
