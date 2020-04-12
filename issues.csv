@@ -1,10 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/covid19gr_issues/issues/43,598553931,2020-04-12 21:18:42,2020-04-12 19:23:55,Άλλες Υπηρεσίες,,,,,"[""Missing position"", ""accepted"", ""bulletin"", ""form""]",,,"{""Category"": ""\u03ac\u03bb\u03bb\u03b7_\u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1"", ""Institution"": ""\u0395\u03bb\u03b1"", ""Test"": ""test3""}","<pre><yamldata>
-Category: άλλη_υπηρεσία
-Institution: Ελα
-Test: test3
-</yamldata></pre>",open
-https://github.com/emergenzeHack/covid19gr_issues/issues/40,598553525,2020-04-12 19:22:52,2020-04-12 19:21:44,Ψυχολογική Υποστήριξη,37.963631,23.724333,,,"[""Missing position"", ""accepted"", ""form"", ""private solidarity services and initiatives""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Category"": ""\u03c8\u03c5\u03c7\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae_\u03c5\u03c0\u03bf"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0395\u03bb\u03b1"", ""Legal"": ""OK"", ""Link"": ""http://www.cisco.com"", ""Location"": ""37.963631 23.724333 0 0"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19gr_issues/issues/40,598553525,2020-04-12 21:25:35,2020-04-12 19:21:44,Ψυχολογική Υποστήριξη,37.963631,23.724333,,,"[""Missing position"", ""accepted"", ""form"", ""psychological support""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Category"": ""\u03c8\u03c5\u03c7\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae_\u03c5\u03c0\u03bf"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0395\u03bb\u03b1"", ""Legal"": ""OK"", ""Link"": ""http://www.cisco.com"", ""Location"": ""37.963631 23.724333 0 0"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
 Beneficiaries: Ελα
 Category: ψυχολογική_υπο
 Description: Ελα
