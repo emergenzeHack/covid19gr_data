@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19gr_issues/issues/36,598539003,2020-04-12 18:02:17,2020-04-12 17:59:58,support request,,,,,"[""Missing position"", ""accepted"", ""e-learning"", ""form""]",,,"{""Beneficiaries"": ""\u0395\u03bb\u03b1"", ""Description"": ""\u0395\u03bb\u03b1"", ""Institution"": ""\u0394\u03b7\u03bc\u03bf\u03c2"", ""Legal"": ""OK"", ""Link"": ""www.inter.com"", ""Title"": ""\u0395\u03bb\u03b1""}","<pre><yamldata>
+Beneficiaries: Ελα
+Description: Ελα
+Institution: Δημος
+Legal: OK
+Link: www.inter.com
+Title: Ελα
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19gr_issues/issues/35,598537908,2020-04-12 18:00:19,2020-04-12 17:54:37,support request,,,,,"[""Missing position"", ""accepted"", ""e-learning"", ""form""]",,,"{""Cosa"": ""\u0395\u03bb\u03b1 \u03bc\u03bf\u03c5"", ""Destinatari"": ""\u039d\u03b1\u03b9"", ""Link"": ""www.actionaid.gr"", ""Nome"": ""\u0394\u03ae\u03bc\u03bf\u03c2"", ""text_te4xn37"": ""\u0395\u03b9\u03b4\u03b1\u03bc\u03b5""}","<pre><yamldata>
 Cosa: Ελα μου
 Destinatari: Ναι
